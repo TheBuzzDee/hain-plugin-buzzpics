@@ -1,0 +1,22 @@
+{
+  "name": "hain-plugin-buzzpics",
+  "version": "0.0.1",
+  "description": "Hain plugin to search images, albums and users on buzzpics.de",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBuzzDee/hain-plugin-buzzpics.git"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "BuzzPics.de",
+  "license": "MIT",
+  "homepage": "https://github.com/TheBuzzDee/hain-plugin-buzzpics.git",
+  "hain": {
+    "prefix": "/buzzpics ",
+    "usage": "/buzzpics - search images, albums and users on buzzpics.de",
+    "icon": "./icon.png",
+    "redirect": "/buzzpics "
+  }
+}
