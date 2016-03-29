@@ -19,5 +19,5 @@ Type something and choose which search you want to start (images, albums, users)
 
 ## More Hain-Plugins
 
-[hain-plugin-buzzpics](https://github.com/TheBuzzDee/hain-plugin-buzzpics)
-[hain-plugin-amzn](https://github.com/TheBuzzDee/hain-plugin-amzn/) 
+* [hain-plugin-buzzpics](https://github.com/TheBuzzDee/hain-plugin-buzzpics) 
+* [hain-plugin-amzn](https://github.com/TheBuzzDee/hain-plugin-amzn/) 
