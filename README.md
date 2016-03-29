@@ -1,6 +1,7 @@
 # hain-plugin-buzzpics
 [Hain](https://github.com/appetizermonster/hain) plugin to search images, albums and users on buzzpics.de
 
+![screenshot](screenshot.png)
 
 ## Install
 
